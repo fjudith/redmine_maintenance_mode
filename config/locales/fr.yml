@@ -13,6 +13,3 @@ fr:
   maintenance_mode_schedule_time_label: Période de Maintenance
   maintenance_mode_server_timezone_hint: "L'heure et la date sont évalués sur la base du fuseau horaire du serveur: %{timezone}"
   maintenance_mode_login_admin_only: "L'ouverture de session est restreinte uniquement aux administrateurs"
-  date:
-    formats:
-      default: "%Y-%m-%d %H:%M"
